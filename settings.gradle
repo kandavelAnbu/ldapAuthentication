@@ -1,0 +1,3 @@
+include rmcore-parent
+include rmservice-parent
+include rmui-parent
